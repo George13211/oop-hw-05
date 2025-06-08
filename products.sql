@@ -25,3 +25,17 @@ INSERT INTO products VALUES
 	("ALn","Lanyard","Lanyard.jpg",5.95),
 	("ATherm","Thermos","Thermos.jpg",19.95),
 	("AMinHm","Mini Football Helmet","MiniHelmet.jpg",29.95)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
