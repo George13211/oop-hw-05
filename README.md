@@ -1,7 +1,8 @@
 *Object Oriented Programming coursework from Stanford's CS108 curriculum.*
-
-See the [assignment PDF](https://github.com/Gdzagaa1/cs108-hw5-web/blob/master/HW05Web.pdf)  for detailed explanation and implementation requirements. 
+ 
 This was completed as part of my university coursework at Free University of Tbilisi, following the CS108 curriculum originally developed at Stanford.
+
+See the [assignment PDF](https://github.com/Gdzagaa1/cs108-hw5-web/blob/master/HW05Web.pdf)  for detailed explanation and implementation requirements.
 # CS108 HW5 Web
 
 Two Java EE mini–web apps from Stanford CS108 HW5. One app covers account login, the other a basic store backed by MySQL.
